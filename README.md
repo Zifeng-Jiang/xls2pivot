@@ -2,4 +2,4 @@
 
 
 ## Getting started
-excel to pivot table。
+excel to pivot table.
