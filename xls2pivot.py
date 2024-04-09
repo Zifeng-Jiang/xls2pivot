@@ -56,7 +56,7 @@ if uploaded_xlsx:
         st.success('处理完成!')
 
         st.download_button(
-                    label = "Download data as Excel sheet",
+                    label = "下载表格！",
                     data = output,
                     file_name = 'pivot_matrix.xlsx'
                 )
